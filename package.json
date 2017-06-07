@@ -1,0 +1,21 @@
+{
+  "name": "redux_app",
+  "version": "1.0.0",
+  "description": "First REDUX Application for learning purpose. Expecting it to be kind of basic but it should get you some good knowledge of how the library/framework works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "gulp": "^3.9.1",
+    "webpack": "^2.6.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
