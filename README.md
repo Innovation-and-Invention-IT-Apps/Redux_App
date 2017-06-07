@@ -34,6 +34,12 @@ COMMANDLINE Commands I used:
 
           npm i -g npm  (My NPM asked for an upgrade.... You may not need to do this step though.)
 
+          npm install -g webpack gulp
+              // Just want to install these packages globally so that I can use them for other projects of mine, in future.
+
+          npm install babel-polyfill babel-runtime isomorphic-fetch react react-dom react-redux redux --save
+
+
 
 
     --      
